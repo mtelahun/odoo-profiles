@@ -1,2 +1,1 @@
-This will install the Payroll modules necessary to extend the base Odoo system.
-Does not include HR.
+This profile will install modules that allow generating separate payroll sheets per each operating unit.
