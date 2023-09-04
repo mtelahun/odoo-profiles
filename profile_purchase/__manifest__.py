@@ -48,6 +48,8 @@
         "purchase_requisition_auto_rfq",
         "purchase_requisition_tier_validation",
         "purchase_rfq_number",
+        "purchase_substate",
+        "purchase_tags",
         "purchase_tier_validation",
         "subcontracted_service",
     ],
