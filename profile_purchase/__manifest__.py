@@ -32,6 +32,7 @@
         # https://github.com/OCA/server-ux
         "base_tier_validation",
         "base_tier_validation_correction",
+        "base_tier_validation_forward",
         "base_tier_validation_report",
         "base_tier_validation_server_action",
         "base_tier_validation_waiting",
